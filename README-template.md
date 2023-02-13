@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-rating-component-ViQxPEAN8i)
 - Live Site URL: [Live Site](https://heinz157.github.io/interactive-rating-component-main/)
 
 ## My process
